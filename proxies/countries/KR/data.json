@@ -78,23 +78,23 @@
     }
   },
   {
-    "proxy": "http://43.200.30.144:80",
+    "proxy": "http://175.196.233.22:9090",
     "protocol": "http",
-    "ip": "43.200.30.144",
-    "port": 80,
+    "ip": "175.196.233.22",
+    "port": 9090,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "KR",
-      "city": "Incheon"
+      "city": "Unknown"
     }
   },
   {
-    "proxy": "http://175.196.233.22:9090",
+    "proxy": "http://211.175.140.8:8000",
     "protocol": "http",
-    "ip": "175.196.233.22",
-    "port": 9090,
+    "ip": "211.175.140.8",
+    "port": 8000,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -117,36 +117,10 @@
     }
   },
   {
-    "proxy": "http://121.168.58.144:3128",
+    "proxy": "http://183.98.143.134:8817",
     "protocol": "http",
-    "ip": "121.168.58.144",
-    "port": 3128,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "KR",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://221.161.204.152:3176",
-    "protocol": "http",
-    "ip": "221.161.204.152",
-    "port": 3176,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "KR",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://222.107.27.7:8095",
-    "protocol": "http",
-    "ip": "222.107.27.7",
-    "port": 8095,
+    "ip": "183.98.143.134",
+    "port": 8817,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -169,16 +143,16 @@
     }
   },
   {
-    "proxy": "http://119.192.157.20:80",
+    "proxy": "http://59.6.25.118:3128",
     "protocol": "http",
-    "ip": "119.192.157.20",
-    "port": 80,
+    "ip": "59.6.25.118",
+    "port": 3128,
     "https": false,
-    "anonymity": "transparent",
+    "anonymity": "elite",
     "score": 1,
     "geolocation": {
       "country": "KR",
-      "city": "Yongsan-gu"
+      "city": "Jungnang-gu"
     }
   },
   {
@@ -192,6 +166,32 @@
     "geolocation": {
       "country": "KR",
       "city": "Suwon"
+    }
+  },
+  {
+    "proxy": "http://119.192.157.20:80",
+    "protocol": "http",
+    "ip": "119.192.157.20",
+    "port": 80,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Yongsan-gu"
+    }
+  },
+  {
+    "proxy": "http://43.200.30.144:80",
+    "protocol": "http",
+    "ip": "43.200.30.144",
+    "port": 80,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Incheon"
     }
   }
 ]

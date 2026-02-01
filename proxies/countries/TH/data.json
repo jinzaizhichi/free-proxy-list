@@ -1,9 +1,9 @@
 [
   {
-    "proxy": "http://103.153.202.125:8080",
-    "protocol": "http",
-    "ip": "103.153.202.125",
-    "port": 8080,
+    "proxy": "socks5://154.197.69.137:1081",
+    "protocol": "socks5",
+    "ip": "154.197.69.137",
+    "port": 1081,
     "https": false,
     "anonymity": "transparent",
     "score": 1,

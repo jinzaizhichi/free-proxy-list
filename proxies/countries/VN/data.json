@@ -1,9 +1,9 @@
 [
   {
-    "proxy": "socks5://36.255.98.161:16048",
+    "proxy": "socks5://62.60.131.194:4240",
     "protocol": "socks5",
-    "ip": "36.255.98.161",
-    "port": 16048,
+    "ip": "62.60.131.194",
+    "port": 4240,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -13,23 +13,10 @@
     }
   },
   {
-    "proxy": "socks5://36.255.98.154:10001",
+    "proxy": "socks5://36.255.98.162:5655",
     "protocol": "socks5",
-    "ip": "36.255.98.154",
-    "port": 10001,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "VN",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "socks5://36.255.98.181:5311",
-    "protocol": "socks5",
-    "ip": "36.255.98.181",
-    "port": 5311,
+    "ip": "36.255.98.162",
+    "port": 5655,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -65,23 +52,36 @@
     }
   },
   {
+    "proxy": "http://118.69.183.149:8080",
+    "protocol": "http",
+    "ip": "118.69.183.149",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "VN",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "http://103.3.246.71:3128",
     "protocol": "http",
     "ip": "103.3.246.71",
     "port": 3128,
     "https": false,
-    "anonymity": "elite",
+    "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "VN",
-      "city": ""
+      "city": "Unknown"
     }
   },
   {
-    "proxy": "http://14.225.8.195:3218",
+    "proxy": "http://113.161.59.136:8080",
     "protocol": "http",
-    "ip": "14.225.8.195",
-    "port": 3218,
+    "ip": "113.161.59.136",
+    "port": 8080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -104,10 +104,10 @@
     }
   },
   {
-    "proxy": "http://103.166.185.54:3128",
+    "proxy": "http://14.177.53.30:8080",
     "protocol": "http",
-    "ip": "103.166.185.54",
-    "port": 3128,
+    "ip": "14.177.53.30",
+    "port": 8080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -117,10 +117,10 @@
     }
   },
   {
-    "proxy": "http://14.177.53.30:8080",
+    "proxy": "http://171.229.242.21:10007",
     "protocol": "http",
-    "ip": "14.177.53.30",
-    "port": 8080,
+    "ip": "171.229.242.21",
+    "port": 10007,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
