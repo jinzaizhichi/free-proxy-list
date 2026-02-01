@@ -1,5 +1,18 @@
 [
   {
+    "proxy": "http://207.254.71.62:8088",
+    "protocol": "http",
+    "ip": "207.254.71.62",
+    "port": 8088,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "IE",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "http://20.33.68.30:3128",
     "protocol": "http",
     "ip": "20.33.68.30",
