@@ -104,6 +104,32 @@
     }
   },
   {
+    "proxy": "http://221.153.152.43:80",
+    "protocol": "http",
+    "ip": "221.153.152.43",
+    "port": 80,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://14.42.58.191:80",
+    "protocol": "http",
+    "ip": "14.42.58.191",
+    "port": 80,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "http://43.200.30.144:80",
     "protocol": "http",
     "ip": "43.200.30.144",
@@ -156,6 +182,45 @@
     }
   },
   {
+    "proxy": "http://175.215.60.67:3172",
+    "protocol": "http",
+    "ip": "175.215.60.67",
+    "port": 3172,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://121.177.104.201:3188",
+    "protocol": "http",
+    "ip": "121.177.104.201",
+    "port": 3188,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://72.10.164.178:3181",
+    "protocol": "http",
+    "ip": "72.10.164.178",
+    "port": 3181,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "http://121.147.253.205:3172",
     "protocol": "http",
     "ip": "121.147.253.205",
@@ -169,23 +234,10 @@
     }
   },
   {
-    "proxy": "http://59.11.138.192:3128",
+    "proxy": "http://72.10.160.91:21663",
     "protocol": "http",
-    "ip": "59.11.138.192",
-    "port": 3128,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "KR",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://112.168.176.130:3128",
-    "protocol": "http",
-    "ip": "112.168.176.130",
-    "port": 3128,
+    "ip": "72.10.160.91",
+    "port": 21663,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
