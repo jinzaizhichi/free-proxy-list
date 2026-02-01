@@ -13,23 +13,10 @@
     }
   },
   {
-    "proxy": "http://72.10.160.173:30793",
+    "proxy": "http://185.83.182.197:8080",
     "protocol": "http",
-    "ip": "72.10.160.173",
-    "port": 30793,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "AE",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://67.43.228.251:9085",
-    "protocol": "http",
-    "ip": "67.43.228.251",
-    "port": 9085,
+    "ip": "185.83.182.197",
+    "port": 8080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
