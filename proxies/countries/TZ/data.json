@@ -1,9 +1,9 @@
 [
   {
-    "proxy": "socks5://62.60.131.196:4026",
+    "proxy": "socks5://36.255.98.176:4147",
     "protocol": "socks5",
-    "ip": "62.60.131.196",
-    "port": 4026,
+    "ip": "36.255.98.176",
+    "port": 4147,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
