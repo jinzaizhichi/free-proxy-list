@@ -1,14 +1,14 @@
 [
   {
-    "proxy": "http://43.245.95.178:53805",
+    "proxy": "http://196.251.241.54:8080",
     "protocol": "http",
-    "ip": "43.245.95.178",
-    "port": 53805,
+    "ip": "196.251.241.54",
+    "port": 8080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
-      "country": "NP",
+      "country": "GQ",
       "city": "Unknown"
     }
   }

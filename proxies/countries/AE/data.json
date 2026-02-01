@@ -11,5 +11,31 @@
       "country": "AE",
       "city": "Unknown"
     }
+  },
+  {
+    "proxy": "http://151.245.215.27:3128",
+    "protocol": "http",
+    "ip": "151.245.215.27",
+    "port": 3128,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "AE",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://67.43.236.18:5071",
+    "protocol": "http",
+    "ip": "67.43.236.18",
+    "port": 5071,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "AE",
+      "city": "Unknown"
+    }
   }
 ]

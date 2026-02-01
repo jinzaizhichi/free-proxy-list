@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://199.68.199.81:3128",
+    "proxy": "http://206.168.214.240:3128",
     "protocol": "http",
-    "ip": "199.68.199.81",
+    "ip": "206.168.214.240",
     "port": 3128,
     "https": false,
     "anonymity": "transparent",
