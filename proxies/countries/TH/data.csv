@@ -1,5 +1,6 @@
-socks4://113.53.91.26:4153,TH,Unknown
-http://154.197.69.137:8888,TH,Unknown
+socks5://154.197.69.137:1080,TH,Unknown
+socks5://154.197.69.137:1081,TH,Unknown
+http://183.88.212.184:8080,TH,Unknown
 http://49.48.93.141:8080,TH,Unknown
 http://49.48.43.172:8080,TH,Unknown
 http://223.204.53.111:8080,TH,Unknown
