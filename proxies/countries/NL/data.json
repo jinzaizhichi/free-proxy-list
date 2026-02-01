@@ -52,6 +52,97 @@
     }
   },
   {
+    "proxy": "http://45.131.6.9:80",
+    "protocol": "http",
+    "ip": "45.131.6.9",
+    "port": 80,
+    "https": false,
+    "anonymity": "elite",
+    "score": 1,
+    "geolocation": {
+      "country": "NL",
+      "city": ""
+    }
+  },
+  {
+    "proxy": "http://45.131.5.102:80",
+    "protocol": "http",
+    "ip": "45.131.5.102",
+    "port": 80,
+    "https": false,
+    "anonymity": "elite",
+    "score": 1,
+    "geolocation": {
+      "country": "NL",
+      "city": ""
+    }
+  },
+  {
+    "proxy": "http://45.131.6.165:80",
+    "protocol": "http",
+    "ip": "45.131.6.165",
+    "port": 80,
+    "https": false,
+    "anonymity": "elite",
+    "score": 1,
+    "geolocation": {
+      "country": "NL",
+      "city": ""
+    }
+  },
+  {
+    "proxy": "http://45.131.6.6:80",
+    "protocol": "http",
+    "ip": "45.131.6.6",
+    "port": 80,
+    "https": false,
+    "anonymity": "elite",
+    "score": 1,
+    "geolocation": {
+      "country": "NL",
+      "city": ""
+    }
+  },
+  {
+    "proxy": "http://188.114.97.6:80",
+    "protocol": "http",
+    "ip": "188.114.97.6",
+    "port": 80,
+    "https": false,
+    "anonymity": "elite",
+    "score": 1,
+    "geolocation": {
+      "country": "NL",
+      "city": "Amsterdam"
+    }
+  },
+  {
+    "proxy": "http://45.131.6.107:80",
+    "protocol": "http",
+    "ip": "45.131.6.107",
+    "port": 80,
+    "https": false,
+    "anonymity": "elite",
+    "score": 1,
+    "geolocation": {
+      "country": "NL",
+      "city": ""
+    }
+  },
+  {
+    "proxy": "http://45.131.6.129:80",
+    "protocol": "http",
+    "ip": "45.131.6.129",
+    "port": 80,
+    "https": false,
+    "anonymity": "elite",
+    "score": 1,
+    "geolocation": {
+      "country": "NL",
+      "city": ""
+    }
+  },
+  {
     "proxy": "http://45.131.208.11:80",
     "protocol": "http",
     "ip": "45.131.208.11",
@@ -250,110 +341,6 @@
     "proxy": "http://45.131.5.133:80",
     "protocol": "http",
     "ip": "45.131.5.133",
-    "port": 80,
-    "https": false,
-    "anonymity": "elite",
-    "score": 1,
-    "geolocation": {
-      "country": "NL",
-      "city": ""
-    }
-  },
-  {
-    "proxy": "http://45.131.7.84:80",
-    "protocol": "http",
-    "ip": "45.131.7.84",
-    "port": 80,
-    "https": false,
-    "anonymity": "elite",
-    "score": 1,
-    "geolocation": {
-      "country": "NL",
-      "city": ""
-    }
-  },
-  {
-    "proxy": "http://45.131.6.6:80",
-    "protocol": "http",
-    "ip": "45.131.6.6",
-    "port": 80,
-    "https": false,
-    "anonymity": "elite",
-    "score": 1,
-    "geolocation": {
-      "country": "NL",
-      "city": ""
-    }
-  },
-  {
-    "proxy": "http://45.131.7.206:80",
-    "protocol": "http",
-    "ip": "45.131.7.206",
-    "port": 80,
-    "https": false,
-    "anonymity": "elite",
-    "score": 1,
-    "geolocation": {
-      "country": "NL",
-      "city": ""
-    }
-  },
-  {
-    "proxy": "http://45.131.6.224:80",
-    "protocol": "http",
-    "ip": "45.131.6.224",
-    "port": 80,
-    "https": false,
-    "anonymity": "elite",
-    "score": 1,
-    "geolocation": {
-      "country": "NL",
-      "city": ""
-    }
-  },
-  {
-    "proxy": "http://45.131.7.219:80",
-    "protocol": "http",
-    "ip": "45.131.7.219",
-    "port": 80,
-    "https": false,
-    "anonymity": "elite",
-    "score": 1,
-    "geolocation": {
-      "country": "NL",
-      "city": ""
-    }
-  },
-  {
-    "proxy": "http://45.131.5.121:80",
-    "protocol": "http",
-    "ip": "45.131.5.121",
-    "port": 80,
-    "https": false,
-    "anonymity": "elite",
-    "score": 1,
-    "geolocation": {
-      "country": "NL",
-      "city": ""
-    }
-  },
-  {
-    "proxy": "http://45.131.7.88:80",
-    "protocol": "http",
-    "ip": "45.131.7.88",
-    "port": 80,
-    "https": false,
-    "anonymity": "elite",
-    "score": 1,
-    "geolocation": {
-      "country": "NL",
-      "city": ""
-    }
-  },
-  {
-    "proxy": "http://45.131.6.190:80",
-    "protocol": "http",
-    "ip": "45.131.6.190",
     "port": 80,
     "https": false,
     "anonymity": "elite",
