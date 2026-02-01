@@ -1,8 +1,34 @@
 [
   {
-    "proxy": "http://45.131.208.86:80",
+    "proxy": "http://45.131.7.234:80",
     "protocol": "http",
-    "ip": "45.131.208.86",
+    "ip": "45.131.7.234",
+    "port": 80,
+    "https": false,
+    "anonymity": "elite",
+    "score": 1,
+    "geolocation": {
+      "country": "NL",
+      "city": ""
+    }
+  },
+  {
+    "proxy": "http://45.131.4.211:80",
+    "protocol": "http",
+    "ip": "45.131.4.211",
+    "port": 80,
+    "https": false,
+    "anonymity": "elite",
+    "score": 1,
+    "geolocation": {
+      "country": "NL",
+      "city": ""
+    }
+  },
+  {
+    "proxy": "http://45.131.5.75:80",
+    "protocol": "http",
+    "ip": "45.131.5.75",
     "port": 80,
     "https": false,
     "anonymity": "elite",
@@ -419,71 +445,6 @@
     "proxy": "http://45.131.208.11:80",
     "protocol": "http",
     "ip": "45.131.208.11",
-    "port": 80,
-    "https": false,
-    "anonymity": "elite",
-    "score": 1,
-    "geolocation": {
-      "country": "NL",
-      "city": ""
-    }
-  },
-  {
-    "proxy": "http://45.131.4.4:80",
-    "protocol": "http",
-    "ip": "45.131.4.4",
-    "port": 80,
-    "https": false,
-    "anonymity": "elite",
-    "score": 1,
-    "geolocation": {
-      "country": "NL",
-      "city": ""
-    }
-  },
-  {
-    "proxy": "http://45.131.5.159:80",
-    "protocol": "http",
-    "ip": "45.131.5.159",
-    "port": 80,
-    "https": false,
-    "anonymity": "elite",
-    "score": 1,
-    "geolocation": {
-      "country": "NL",
-      "city": ""
-    }
-  },
-  {
-    "proxy": "http://45.131.5.87:80",
-    "protocol": "http",
-    "ip": "45.131.5.87",
-    "port": 80,
-    "https": false,
-    "anonymity": "elite",
-    "score": 1,
-    "geolocation": {
-      "country": "NL",
-      "city": ""
-    }
-  },
-  {
-    "proxy": "http://45.131.208.22:80",
-    "protocol": "http",
-    "ip": "45.131.208.22",
-    "port": 80,
-    "https": false,
-    "anonymity": "elite",
-    "score": 1,
-    "geolocation": {
-      "country": "NL",
-      "city": ""
-    }
-  },
-  {
-    "proxy": "http://45.131.5.25:80",
-    "protocol": "http",
-    "ip": "45.131.5.25",
     "port": 80,
     "https": false,
     "anonymity": "elite",

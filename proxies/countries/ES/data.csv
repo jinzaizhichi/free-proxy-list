@@ -1,8 +1,10 @@
-socks5://152.53.171.242:16373,ES,Unknown
-socks4://141.105.107.152:5678,ES,Unknown
+socks5://82.223.165.28:4733,ES,Unknown
+socks5://152.53.171.242:42449,ES,Unknown
 http://195.114.209.50:443,ES,Unknown
 http://90.174.128.42:3128,ES,Unknown
 http://193.38.224.169:8081,ES,Unknown
+http://31.172.67.250:3128,ES,Unknown
+http://185.238.228.210:80,ES,
 http://185.238.228.218:80,ES,
 socks4://178.236.112.175:5678,ES,Aspe
 http://185.238.228.0:80,ES,
