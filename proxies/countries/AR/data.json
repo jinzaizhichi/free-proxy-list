@@ -1,22 +1,9 @@
 [
   {
-    "proxy": "socks4://181.209.82.154:14888",
+    "proxy": "socks4://45.172.177.253:59341",
     "protocol": "socks4",
-    "ip": "181.209.82.154",
-    "port": 14888,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "AR",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "socks4://200.123.109.166:4153",
-    "protocol": "socks4",
-    "ip": "200.123.109.166",
-    "port": 4153,
+    "ip": "45.172.177.253",
+    "port": 59341,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -117,19 +104,6 @@
     }
   },
   {
-    "proxy": "http://190.103.205.253:9097",
-    "protocol": "http",
-    "ip": "190.103.205.253",
-    "port": 9097,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "AR",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "http://181.10.138.226:8083",
     "protocol": "http",
     "ip": "181.10.138.226",
@@ -208,6 +182,19 @@
     }
   },
   {
+    "proxy": "http://181.13.20.102:999",
+    "protocol": "http",
+    "ip": "181.13.20.102",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "AR",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "http://45.65.225.17:999",
     "protocol": "http",
     "ip": "45.65.225.17",
@@ -231,6 +218,19 @@
     "geolocation": {
       "country": "AR",
       "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://186.65.109.21:81",
+    "protocol": "http",
+    "ip": "186.65.109.21",
+    "port": 81,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "AR",
+      "city": "R?o Turbio"
     }
   },
   {
@@ -286,32 +286,6 @@
     }
   },
   {
-    "proxy": "http://67.43.236.20:31693",
-    "protocol": "http",
-    "ip": "67.43.236.20",
-    "port": 31693,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "AR",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://72.10.164.178:18339",
-    "protocol": "http",
-    "ip": "72.10.164.178",
-    "port": 18339,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "AR",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "socks4://200.122.92.211:5678",
     "protocol": "socks4",
     "ip": "200.122.92.211",
@@ -322,19 +296,6 @@
     "geolocation": {
       "country": "AR",
       "city": "Bell Ville"
-    }
-  },
-  {
-    "proxy": "http://186.65.109.21:81",
-    "protocol": "http",
-    "ip": "186.65.109.21",
-    "port": 81,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "AR",
-      "city": "R?o Turbio"
     }
   },
   {

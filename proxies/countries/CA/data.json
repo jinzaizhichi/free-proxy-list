@@ -26,10 +26,10 @@
     }
   },
   {
-    "proxy": "socks5://36.255.98.167:5123",
+    "proxy": "socks5://152.53.171.242:25099",
     "protocol": "socks5",
-    "ip": "36.255.98.167",
-    "port": 5123,
+    "ip": "152.53.171.242",
+    "port": 25099,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -78,36 +78,10 @@
     }
   },
   {
-    "proxy": "http://149.56.24.51:3128",
-    "protocol": "http",
-    "ip": "149.56.24.51",
-    "port": 3128,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CA",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "http://148.113.201.91:8888",
     "protocol": "http",
     "ip": "148.113.201.91",
     "port": 8888,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CA",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://72.10.160.170:33131",
-    "protocol": "http",
-    "ip": "72.10.160.170",
-    "port": 33131,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -140,6 +114,32 @@
     "geolocation": {
       "country": "CA",
       "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://23.227.38.239:80",
+    "protocol": "http",
+    "ip": "23.227.38.239",
+    "port": 80,
+    "https": false,
+    "anonymity": "elite",
+    "score": 1,
+    "geolocation": {
+      "country": "CA",
+      "city": ""
+    }
+  },
+  {
+    "proxy": "http://23.227.38.162:80",
+    "protocol": "http",
+    "ip": "23.227.38.162",
+    "port": 80,
+    "https": false,
+    "anonymity": "elite",
+    "score": 1,
+    "geolocation": {
+      "country": "CA",
+      "city": ""
     }
   },
   {
@@ -237,32 +237,6 @@
     "proxy": "http://23.227.38.111:80",
     "protocol": "http",
     "ip": "23.227.38.111",
-    "port": 80,
-    "https": false,
-    "anonymity": "elite",
-    "score": 1,
-    "geolocation": {
-      "country": "CA",
-      "city": ""
-    }
-  },
-  {
-    "proxy": "http://23.227.38.239:80",
-    "protocol": "http",
-    "ip": "23.227.38.239",
-    "port": 80,
-    "https": false,
-    "anonymity": "elite",
-    "score": 1,
-    "geolocation": {
-      "country": "CA",
-      "city": ""
-    }
-  },
-  {
-    "proxy": "http://23.227.38.162:80",
-    "protocol": "http",
-    "ip": "23.227.38.162",
     "port": 80,
     "https": false,
     "anonymity": "elite",

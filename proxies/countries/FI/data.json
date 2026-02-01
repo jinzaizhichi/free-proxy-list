@@ -1,9 +1,9 @@
 [
   {
-    "proxy": "socks5://62.60.131.194:4035",
+    "proxy": "socks5://62.60.131.195:4119",
     "protocol": "socks5",
-    "ip": "62.60.131.194",
-    "port": 4035,
+    "ip": "62.60.131.195",
+    "port": 4119,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -13,10 +13,10 @@
     }
   },
   {
-    "proxy": "socks5://62.60.131.179:4163",
+    "proxy": "socks5://36.255.98.164:5317",
     "protocol": "socks5",
-    "ip": "62.60.131.179",
-    "port": 4163,
+    "ip": "36.255.98.164",
+    "port": 5317,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -26,49 +26,10 @@
     }
   },
   {
-    "proxy": "socks5://62.60.131.178:4064",
-    "protocol": "socks5",
-    "ip": "62.60.131.178",
-    "port": 4064,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "FI",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "socks5://36.255.98.161:5602",
-    "protocol": "socks5",
-    "ip": "36.255.98.161",
-    "port": 5602,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "FI",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "socks5://36.255.98.176:4525",
-    "protocol": "socks5",
-    "ip": "36.255.98.176",
-    "port": 4525,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "FI",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "socks5://36.255.98.183:4393",
-    "protocol": "socks5",
-    "ip": "36.255.98.183",
-    "port": 4393,
+    "proxy": "socks4://155.212.170.93:10808",
+    "protocol": "socks4",
+    "ip": "155.212.170.93",
+    "port": 10808,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -178,7 +139,7 @@
     "score": 1,
     "geolocation": {
       "country": "FI",
-      "city": "Unknown"
+      "city": "Helsinki"
     }
   },
   {
@@ -191,13 +152,13 @@
     "score": 1,
     "geolocation": {
       "country": "FI",
-      "city": "Helsinki"
+      "city": "Unknown"
     }
   },
   {
-    "proxy": "http://176.124.220.172:3128",
+    "proxy": "http://89.35.119.147:3128",
     "protocol": "http",
-    "ip": "176.124.220.172",
+    "ip": "89.35.119.147",
     "port": 3128,
     "https": false,
     "anonymity": "transparent",
