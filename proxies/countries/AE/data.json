@@ -1,9 +1,9 @@
 [
   {
-    "proxy": "socks5://181.214.140.37:2222",
-    "protocol": "socks5",
-    "ip": "181.214.140.37",
-    "port": 2222,
+    "proxy": "http://151.242.116.245:80",
+    "protocol": "http",
+    "ip": "151.242.116.245",
+    "port": 80,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -23,19 +23,6 @@
     "geolocation": {
       "country": "AE",
       "city": "Dubai"
-    }
-  },
-  {
-    "proxy": "http://151.242.116.245:80",
-    "protocol": "http",
-    "ip": "151.242.116.245",
-    "port": 80,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "AE",
-      "city": "Unknown"
     }
   }
 ]
