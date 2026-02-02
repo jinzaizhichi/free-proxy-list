@@ -1,6 +1,11 @@
 socks5://202.72.232.121:1080,BD,Unknown
 socks5://36.255.98.175:4104,BD,Unknown
-socks4://115.127.180.90:5678,BD,Unknown
+socks5://36.255.98.161:4177,BD,Unknown
+socks4://121.200.60.122:4153,BD,Unknown
+socks4://118.67.216.94:4145,BD,Unknown
+socks4://58.147.171.12:10801,BD,Unknown
+socks4://45.120.38.246:1088,BD,Unknown
+socks4://103.229.47.120:4153,BD,Unknown
 http://115.127.95.82:8080,BD,Unknown
 http://119.18.147.179:96,BD,Unknown
 http://103.85.183.30:4995,BD,Unknown
@@ -23,8 +28,6 @@ http://113.212.111.4:80,BD,Unknown
 http://103.250.70.190:9107,BD,Unknown
 http://202.191.123.195:1121,BD,Unknown
 http://202.191.127.9:1121,BD,Unknown
-http://115.127.31.66:8080,BD,Unknown
-http://103.106.119.217:8081,BD,Unknown
 http://103.189.11.141:8888,BD,Unknown
 http://123.200.6.205:2314,BD,Unknown
 http://103.109.96.193:8080,BD,Unknown

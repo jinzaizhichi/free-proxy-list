@@ -1,14 +1,14 @@
 [
   {
-    "proxy": "http://129.159.159.78:3128",
+    "proxy": "http://109.111.242.134:6666",
     "protocol": "http",
-    "ip": "129.159.159.78",
-    "port": 3128,
+    "ip": "109.111.242.134",
+    "port": 6666,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
-      "country": "IL",
+      "country": "RS",
       "city": "Unknown"
     }
   }
