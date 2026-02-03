@@ -1,14 +1,14 @@
 [
   {
-    "proxy": "http://41.191.228.214:8088",
+    "proxy": "http://72.10.160.90:31951",
     "protocol": "http",
-    "ip": "41.191.228.214",
-    "port": 8088,
+    "ip": "72.10.160.90",
+    "port": 31951,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
-      "country": "MU",
+      "country": "QA",
       "city": "Unknown"
     }
   }
