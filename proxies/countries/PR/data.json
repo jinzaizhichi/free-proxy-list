@@ -1,14 +1,14 @@
 [
   {
-    "proxy": "http://72.10.160.174:6759",
+    "proxy": "http://154.64.219.61:8888",
     "protocol": "http",
-    "ip": "72.10.160.174",
-    "port": 6759,
+    "ip": "154.64.219.61",
+    "port": 8888,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
-      "country": "NI",
+      "country": "PR",
       "city": "Unknown"
     }
   }

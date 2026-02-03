@@ -39,10 +39,10 @@
     }
   },
   {
-    "proxy": "http://176.101.220.90:8090",
+    "proxy": "http://185.248.128.216:18777",
     "protocol": "http",
-    "ip": "176.101.220.90",
-    "port": 8090,
+    "ip": "185.248.128.216",
+    "port": 18777,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -52,10 +52,10 @@
     }
   },
   {
-    "proxy": "http://195.93.172.32:3128",
+    "proxy": "http://176.101.220.90:8090",
     "protocol": "http",
-    "ip": "195.93.172.32",
-    "port": 3128,
+    "ip": "176.101.220.90",
+    "port": 8090,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
