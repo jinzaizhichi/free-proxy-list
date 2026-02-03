@@ -1,17 +1,9 @@
-socks5://168.245.197.146:80,ES,Unknown
-socks5://152.53.171.242:10481,ES,Unknown
-socks5://82.223.165.28:18356,ES,Unknown
-socks5://152.53.171.242:39775,ES,Unknown
-socks5://152.53.171.242:20135,ES,Unknown
-socks5://152.53.171.242:12145,ES,Unknown
-socks5://152.53.171.242:12007,ES,Unknown
-socks5://152.53.171.242:26337,ES,Unknown
-socks4://185.130.219.11:4153,ES,Unknown
-socks4://77.225.198.220:4673,ES,Unknown
-socks4://143.47.59.115:8118,ES,Unknown
+socks5://152.53.171.242:12611,ES,Unknown
 socks4://178.236.112.175:5678,ES,Unknown
 http://195.114.209.50:443,ES,Unknown
-http://192.71.213.85:9812,ES,Unknown
+http://90.174.128.42:3128,ES,Unknown
+http://193.38.224.169:8081,ES,Unknown
+http://185.238.228.32:80,ES,
 socks5://185.231.204.221:6115,ES,Madrid
 http://185.238.228.253:80,ES,
 http://185.238.228.201:80,ES,
@@ -19,4 +11,3 @@ http://185.238.228.230:80,ES,
 http://185.238.228.47:80,ES,
 http://185.238.228.218:80,ES,
 http://185.238.228.149:80,ES,
-http://185.238.228.45:80,ES,

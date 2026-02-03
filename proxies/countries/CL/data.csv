@@ -1,8 +1,4 @@
-socks5://36.255.98.151:4523,CL,Unknown
-socks5://62.60.131.196:4150,CL,Unknown
-socks4://190.13.147.241:5678,CL,Unknown
-socks4://186.10.102.218:5678,CL,Unknown
 http://152.230.215.123:443,CL,Unknown
-http://170.233.192.225:999,CL,Unknown
+http://190.54.100.74:8080,CL,Unknown
 http://45.225.207.182:999,CL,Unknown
-http://45.180.26.1:999,CL,Unknown
+http://45.225.207.183:999,CL,Unknown
