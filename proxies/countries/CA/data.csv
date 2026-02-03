@@ -1,7 +1,12 @@
-socks5://36.255.98.181:4506,CA,Unknown
+socks5://184.95.220.42:1080,CA,Unknown
+socks5://36.255.98.167:5123,CA,Unknown
+socks5://152.53.171.242:15043,CA,Unknown
+socks5://152.53.171.242:30319,CA,Unknown
+socks5://152.53.171.242:14901,CA,Unknown
 http://51.161.79.152:8888,CA,Unknown
 http://146.19.9.236:443,CA,Unknown
 http://148.113.172.51:8080,CA,Unknown
+http://51.222.200.225:3128,CA,Unknown
 socks4://192.111.129.150:4145,CA,North York
 http://23.227.39.185:80,CA,Ottawa
 http://23.227.39.19:80,CA,
