@@ -13,19 +13,6 @@
     }
   },
   {
-    "proxy": "http://149.86.139.166:8085",
-    "protocol": "http",
-    "ip": "149.86.139.166",
-    "port": 8085,
-    "https": false,
-    "anonymity": "elite",
-    "score": 1,
-    "geolocation": {
-      "country": "TR",
-      "city": "Sel?uklu"
-    }
-  },
-  {
     "proxy": "http://176.236.46.147:80",
     "protocol": "http",
     "ip": "176.236.46.147",

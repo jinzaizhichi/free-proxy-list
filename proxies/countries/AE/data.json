@@ -39,10 +39,10 @@
     }
   },
   {
-    "proxy": "http://151.245.215.10:3128",
+    "proxy": "http://181.214.140.37:2222",
     "protocol": "http",
-    "ip": "151.245.215.10",
-    "port": 3128,
+    "ip": "181.214.140.37",
+    "port": 2222,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
