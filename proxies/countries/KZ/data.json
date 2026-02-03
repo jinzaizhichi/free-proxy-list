@@ -1,9 +1,9 @@
 [
   {
-    "proxy": "socks5://194.58.42.234:1080",
-    "protocol": "socks5",
-    "ip": "194.58.42.234",
-    "port": 1080,
+    "proxy": "socks4://109.248.236.150:60606",
+    "protocol": "socks4",
+    "ip": "109.248.236.150",
+    "port": 60606,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -78,32 +78,6 @@
     }
   },
   {
-    "proxy": "http://195.133.8.14:8080",
-    "protocol": "http",
-    "ip": "195.133.8.14",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "KZ",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://82.115.60.66:80",
-    "protocol": "http",
-    "ip": "82.115.60.66",
-    "port": 80,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "KZ",
-      "city": "Almaty"
-    }
-  },
-  {
     "proxy": "socks4://82.200.235.134:38191",
     "protocol": "socks4",
     "ip": "82.200.235.134",
@@ -117,9 +91,9 @@
     }
   },
   {
-    "proxy": "http://31.43.179.96:80",
+    "proxy": "http://31.43.179.186:80",
     "protocol": "http",
-    "ip": "31.43.179.96",
+    "ip": "31.43.179.186",
     "port": 80,
     "https": false,
     "anonymity": "elite",
@@ -130,9 +104,35 @@
     }
   },
   {
-    "proxy": "http://92.118.115.36:80",
+    "proxy": "http://31.43.179.217:80",
     "protocol": "http",
-    "ip": "92.118.115.36",
+    "ip": "31.43.179.217",
+    "port": 80,
+    "https": false,
+    "anonymity": "elite",
+    "score": 1,
+    "geolocation": {
+      "country": "KZ",
+      "city": ""
+    }
+  },
+  {
+    "proxy": "http://31.43.179.28:80",
+    "protocol": "http",
+    "ip": "31.43.179.28",
+    "port": 80,
+    "https": false,
+    "anonymity": "elite",
+    "score": 1,
+    "geolocation": {
+      "country": "KZ",
+      "city": ""
+    }
+  },
+  {
+    "proxy": "http://82.115.60.51:80",
+    "protocol": "http",
+    "ip": "82.115.60.51",
     "port": 80,
     "https": false,
     "anonymity": "transparent",
@@ -143,29 +143,16 @@
     }
   },
   {
-    "proxy": "http://31.43.179.215:80",
+    "proxy": "http://82.115.60.66:80",
     "protocol": "http",
-    "ip": "31.43.179.215",
+    "ip": "82.115.60.66",
     "port": 80,
     "https": false,
-    "anonymity": "elite",
+    "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "KZ",
-      "city": ""
-    }
-  },
-  {
-    "proxy": "http://31.43.179.148:80",
-    "protocol": "http",
-    "ip": "31.43.179.148",
-    "port": 80,
-    "https": false,
-    "anonymity": "elite",
-    "score": 1,
-    "geolocation": {
-      "country": "KZ",
-      "city": ""
+      "city": "Almaty"
     }
   }
 ]
