@@ -1,57 +1,5 @@
 [
   {
-    "proxy": "http://45.92.108.112:443",
-    "protocol": "http",
-    "ip": "45.92.108.112",
-    "port": 443,
-    "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CH",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://37.120.213.210:9443",
-    "protocol": "http",
-    "ip": "37.120.213.210",
-    "port": 9443,
-    "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CH",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://185.191.236.162:3128",
-    "protocol": "http",
-    "ip": "185.191.236.162",
-    "port": 3128,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CH",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://217.162.8.134:80",
-    "protocol": "http",
-    "ip": "217.162.8.134",
-    "port": 80,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CH",
-      "city": "Wolhusen"
-    }
-  },
-  {
     "proxy": "http://16.63.207.85:80",
     "protocol": "http",
     "ip": "16.63.207.85",
@@ -65,16 +13,29 @@
     }
   },
   {
-    "proxy": "http://185.85.111.18:80",
+    "proxy": "http://185.18.250.64:80",
     "protocol": "http",
-    "ip": "185.85.111.18",
+    "ip": "185.18.250.64",
+    "port": 80,
+    "https": false,
+    "anonymity": "elite",
+    "score": 1,
+    "geolocation": {
+      "country": "CH",
+      "city": ""
+    }
+  },
+  {
+    "proxy": "http://217.162.8.134:80",
+    "protocol": "http",
+    "ip": "217.162.8.134",
     "port": 80,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "CH",
-      "city": "Tann"
+      "city": "Wolhusen"
     }
   }
 ]
