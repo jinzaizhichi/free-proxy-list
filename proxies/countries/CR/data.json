@@ -1,18 +1,5 @@
 [
   {
-    "proxy": "http://72.10.160.172:6433",
-    "protocol": "http",
-    "ip": "72.10.160.172",
-    "port": 6433,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CR",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "http://190.93.246.26:80",
     "protocol": "http",
     "ip": "190.93.246.26",
