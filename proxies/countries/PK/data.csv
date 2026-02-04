@@ -1,4 +1,6 @@
 socks5://202.142.178.206:1080,PK,Unknown
-http://115.42.67.186:8080,PK,Unknown
-http://103.153.39.35:8083,PK,Unknown
+socks4://103.86.135.34:5678,PK,Unknown
 http://103.157.200.126:3128,PK,Unknown
+http://72.10.160.170:2007,PK,Unknown
+http://103.115.197.142:3127,PK,Unknown
+http://72.10.164.178:11567,PK,Unknown

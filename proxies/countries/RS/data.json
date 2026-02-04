@@ -1,15 +1,15 @@
 [
   {
-    "proxy": "http://147.91.22.150:80",
+    "proxy": "http://87.121.38.120:3128",
     "protocol": "http",
-    "ip": "147.91.22.150",
-    "port": 80,
+    "ip": "87.121.38.120",
+    "port": 3128,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "RS",
-      "city": "Belgrade"
+      "city": "Unknown"
     }
   }
 ]

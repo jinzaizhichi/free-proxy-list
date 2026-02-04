@@ -26,19 +26,6 @@
     }
   },
   {
-    "proxy": "http://98.64.128.182:3128",
-    "protocol": "http",
-    "ip": "98.64.128.182",
-    "port": 3128,
-    "https": false,
-    "anonymity": "elite",
-    "score": 1,
-    "geolocation": {
-      "country": "NL",
-      "city": "Amsterdam"
-    }
-  },
-  {
     "proxy": "http://188.114.98.160:80",
     "protocol": "http",
     "ip": "188.114.98.160",
@@ -231,6 +218,19 @@
     "geolocation": {
       "country": "NL",
       "city": ""
+    }
+  },
+  {
+    "proxy": "http://98.64.128.182:3128",
+    "protocol": "http",
+    "ip": "98.64.128.182",
+    "port": 3128,
+    "https": false,
+    "anonymity": "elite",
+    "score": 1,
+    "geolocation": {
+      "country": "NL",
+      "city": "Amsterdam"
     }
   },
   {
