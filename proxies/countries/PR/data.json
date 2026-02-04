@@ -1,14 +1,14 @@
 [
   {
-    "proxy": "http://92.247.12.136:9510",
+    "proxy": "http://192.203.0.78:999",
     "protocol": "http",
-    "ip": "92.247.12.136",
-    "port": 9510,
+    "ip": "192.203.0.78",
+    "port": 999,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
-      "country": "BG",
+      "country": "PR",
       "city": "Unknown"
     }
   }

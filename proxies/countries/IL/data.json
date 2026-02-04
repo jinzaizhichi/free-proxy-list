@@ -1,14 +1,14 @@
 [
   {
-    "proxy": "http://67.43.236.20:22761",
+    "proxy": "http://185.241.5.57:3128",
     "protocol": "http",
-    "ip": "67.43.236.20",
-    "port": 22761,
+    "ip": "185.241.5.57",
+    "port": 3128,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
-      "country": "MN",
+      "country": "IL",
       "city": "Unknown"
     }
   }
