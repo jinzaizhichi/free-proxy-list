@@ -1,10 +1,8 @@
 socks5://103.82.23.118:6224,VN,Unknown
 socks5://103.82.23.118:6233,VN,Unknown
-socks4://14.232.166.150:5678,VN,Unknown
-socks4://171.248.217.140:1080,VN,Unknown
+socks5://103.82.23.118:6241,VN,Unknown
 http://103.179.190.121:443,VN,Unknown
 http://123.30.154.171:7777,VN,
-http://123.58.199.232:8168,VN,Unknown
 http://1.55.225.217:10001,VN,Unknown
 http://42.116.167.253:10007,VN,Unknown
 http://42.116.169.50:10007,VN,Unknown
@@ -14,3 +12,4 @@ http://42.116.169.253:10007,VN,Unknown
 http://42.115.216.138:10021,VN,Unknown
 http://42.115.216.146:10021,VN,Unknown
 http://42.115.216.150:10021,VN,Unknown
+http://42.116.167.253:10003,VN,Unknown

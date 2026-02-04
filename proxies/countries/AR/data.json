@@ -156,6 +156,19 @@
     }
   },
   {
+    "proxy": "http://190.136.211.228:999",
+    "protocol": "http",
+    "ip": "190.136.211.228",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "AR",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "http://131.0.234.54:55555",
     "protocol": "http",
     "ip": "131.0.234.54",

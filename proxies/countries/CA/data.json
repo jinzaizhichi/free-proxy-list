@@ -65,16 +65,16 @@
     }
   },
   {
-    "proxy": "http://146.19.9.236:80",
+    "proxy": "http://23.227.39.127:80",
     "protocol": "http",
-    "ip": "146.19.9.236",
+    "ip": "23.227.39.127",
     "port": 80,
     "https": false,
-    "anonymity": "transparent",
+    "anonymity": "elite",
     "score": 1,
     "geolocation": {
       "country": "CA",
-      "city": "Beauharnois"
+      "city": "Ottawa"
     }
   },
   {
@@ -153,6 +153,19 @@
     "geolocation": {
       "country": "CA",
       "city": "Calgary"
+    }
+  },
+  {
+    "proxy": "http://146.19.9.236:80",
+    "protocol": "http",
+    "ip": "146.19.9.236",
+    "port": 80,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CA",
+      "city": "Beauharnois"
     }
   }
 ]
