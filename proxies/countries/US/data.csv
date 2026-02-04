@@ -1,32 +1,38 @@
-socks5://174.75.211.222:4145,US,Unknown
+socks5://107.219.228.250:7777,US,Unknown
 socks5://198.177.252.24:4145,US,Unknown
 socks5://198.177.254.131:4145,US,Unknown
 socks5://192.241.156.17:1080,US,Unknown
-socks5://98.182.147.97:4145,US,Unknown
-socks5://72.223.188.67:4145,US,Unknown
 socks5://174.138.61.184:1080,US,Clifton
-socks4://184.185.2.12:4145,US,
-socks4://72.195.101.99:4145,US,
-socks4://98.191.0.37:4145,US,Chandler
-socks4://98.170.57.241:4145,US,
+socks5://104.219.236.127:1080,US,
+socks5://141.11.210.35:1080,US,Unknown
+socks4://70.60.132.130:5678,US,Unknown
+socks4://184.185.2.12:4145,US,Unknown
 socks4://208.65.90.21:4145,US,Unknown
 socks4://208.65.90.3:4145,US,
+socks4://192.252.215.2:4145,US,
+socks4://174.75.211.193:4145,US,
 socks4://72.205.0.93:4145,US,Fredericksburg
-socks4://72.205.0.67:4145,US,Fredericksburg
+socks4://68.71.243.14:4145,US,Unknown
+socks4://216.68.128.121:4145,US,Cincinnati
+socks4://97.83.40.67:5678,US,Unknown
 socks4://72.211.46.99:4145,US,Unknown
-socks4://72.207.109.5:4145,US,San Diego
 socks4://98.190.239.3:4145,US,Wichita
 socks4://198.177.254.157:4145,US,
 socks4://198.177.253.13:4145,US,
-socks4://184.182.240.12:4145,US,Unknown
+socks4://12.11.59.114:1080,US,Unknown
+socks4://184.182.240.12:4145,US,Phoenix
 socks4://72.206.74.126:4145,US,Fairfax
 socks4://72.223.188.92:4145,US,Unknown
+socks4://98.178.72.30:4145,US,
 socks4://184.182.240.211:4145,US,Phoenix
-socks4://98.182.171.161:4145,US,Henderson
 socks4://192.104.242.158:4145,US,
+socks4://98.191.0.47:4145,US,Tempe
+socks4://199.127.176.139:64312,US,Unknown
+socks4://5.75.168.247:8034,US,Unknown
 http://74.103.66.15:443,US,Unknown
 http://167.99.124.118:443,US,Unknown
 http://34.122.187.196:443,US,Unknown
+http://207.178.166.187:443,US,Unknown
 http://34.68.168.129:443,US,Unknown
 http://138.199.35.215:9002,US,Unknown
 http://138.199.35.214:9002,US,Unknown
@@ -134,63 +140,109 @@ http://143.198.135.176:443,US,Unknown
 http://70.166.69.30:443,US,Unknown
 http://150.136.163.51:443,US,Unknown
 http://205.185.125.136:8888,US,Unknown
-http://104.230.113.255:443,US,Unknown
-http://205.178.136.159:8447,US,Unknown
 http://107.150.52.100:443,US,Unknown
 http://47.6.9.54:443,US,Unknown
 http://137.184.96.68:443,US,Unknown
 http://174.104.115.21:443,US,Unknown
 http://212.58.132.189:8443,US,Unknown
-http://205.178.136.199:8443,US,Unknown
 http://150.136.153.231:443,US,Unknown
 http://212.58.135.9:8443,US,Unknown
 http://212.58.135.10:8443,US,Unknown
 http://198.111.166.184:443,US,Unknown
 http://50.210.166.34:443,US,Unknown
-http://206.188.212.251:8443,US,Unknown
-http://205.178.136.80:8447,US,Unknown
-http://205.178.186.25:8443,US,Unknown
-http://205.178.186.15:8447,US,Unknown
-http://205.178.186.174:8447,US,Unknown
-http://205.178.186.190:8443,US,Unknown
-http://205.178.137.132:8443,US,Unknown
+http://205.178.186.148:8443,US,Unknown
+http://206.188.212.67:8443,US,Unknown
+http://205.178.144.150:8447,US,Unknown
+http://205.178.186.3:8443,US,Unknown
+http://205.178.186.24:8447,US,Unknown
+http://205.178.136.193:8447,US,Unknown
+http://206.188.208.117:8447,US,Unknown
 http://69.48.201.94:443,US,Unknown
-http://206.188.207.90:8443,US,Unknown
-http://205.178.144.89:8447,US,Unknown
-http://205.178.137.246:8447,US,Unknown
-http://205.178.136.202:8447,US,Unknown
+http://205.178.186.111:8443,US,Unknown
 http://205.178.136.154:8443,US,Unknown
-http://205.178.137.112:8443,US,Unknown
-http://206.188.204.99:8443,US,Unknown
-http://205.178.137.211:8447,US,Unknown
-http://206.188.209.178:8447,US,Unknown
+http://205.178.136.242:8447,US,Unknown
+http://205.178.186.43:8443,US,Unknown
 http://205.178.137.106:8443,US,Unknown
-http://205.178.144.141:8443,US,Unknown
+http://206.188.212.224:8443,US,Unknown
+http://205.178.144.179:8443,US,Unknown
+http://205.178.144.178:8447,US,Unknown
+http://205.178.137.42:8447,US,Unknown
 http://205.178.186.16:8447,US,Unknown
-http://206.188.209.84:8447,US,Unknown
-http://206.188.209.179:8447,US,Unknown
-http://205.178.144.226:8447,US,Unknown
-http://205.178.144.173:8443,US,Unknown
-http://142.93.202.130:3128,US,North Bergen
+http://205.178.137.253:8447,US,Unknown
+http://205.178.136.149:8447,US,Unknown
+http://206.188.204.115:8443,US,Unknown
+http://205.178.144.161:8443,US,Unknown
+http://205.178.186.172:8447,US,Unknown
 http://159.65.230.46:8888,US,North Bergen
 http://70.63.90.245:8080,US,Unknown
 http://47.89.184.18:3128,US,
-http://144.24.41.48:9999,US,Unknown
 http://50.200.166.130:8080,US,Unknown
-http://104.243.46.122:3128,US,Unknown
 http://23.190.168.41:80,US,Unknown
+http://50.203.147.159:80,US,Unknown
 http://51.141.175.118:80,US,
+http://35.202.49.74:80,US,Council Bluffs
+http://165.227.118.27:80,US,Unknown
 http://172.200.72.48:80,US,Boydton
-http://50.203.147.156:80,US,Plaistow
+http://50.203.147.153:80,US,Unknown
 http://50.203.147.155:80,US,Unknown
-http://50.203.147.158:80,US,Unknown
-http://163.5.128.33:14270,US,Unknown
-http://72.217.5.73:3129,US,Unknown
-http://137.184.14.135:3128,US,Unknown
-http://208.64.37.70:8000,US,Unknown
+http://50.203.147.152:80,US,Unknown
+http://5.161.155.252:80,US,Unknown
+http://128.199.1.8:3128,US,Santa Clara
+http://163.5.128.110:14270,US,Unknown
+http://24.199.124.152:3128,US,Unknown
+http://34.174.116.220:80,US,Unknown
 http://18.219.243.198:3128,US,Unknown
-http://72.10.160.170:12137,US,Unknown
-http://141.193.213.155:80,US,
+socks4://72.207.109.5:4145,US,San Diego
+socks4://68.71.249.158:4145,US,
+socks4://72.207.113.97:4145,US,San Diego
+http://103.21.244.37:80,US,Ashburn
+http://103.21.244.13:80,US,Ashburn
+http://172.67.70.173:80,US,
+socks4://199.116.112.6:4145,US,
+socks4://98.170.57.241:4145,US,
+socks4://67.201.39.14:4145,US,
+socks4://192.252.210.233:4145,US,
+socks4://68.71.240.210:4145,US,
+socks4://142.54.237.38:4145,US,
+socks4://199.187.210.54:4145,US,Los Angeles
+socks4://72.223.188.67:4145,US,Mesa
+socks4://98.182.171.161:4145,US,Henderson
+socks4://192.252.214.17:4145,US,
+http://63.141.128.223:80,US,
+socks4://98.182.147.97:4145,US,Las Vegas
+socks4://67.201.58.190:4145,US,
+socks4://68.71.251.134:4145,US,
+http://141.193.213.210:80,US,
+http://103.21.244.173:80,US,
+http://103.21.244.171:80,US,Ashburn
+http://103.21.244.23:80,US,Ashburn
+http://103.21.244.198:80,US,Ashburn
+socks5://178.130.47.129:1082,US,Phoenix
+socks4://72.205.0.67:4145,US,Fredericksburg
+http://141.193.213.65:80,US,
+http://103.21.244.186:80,US,Ashburn
+socks4://72.207.33.64:4145,US,Chula Vista
+socks4://184.170.251.30:11288,US,
+socks4://67.201.35.145:4145,US,
+http://103.21.244.102:80,US,Ashburn
+http://103.21.244.42:80,US,Ashburn
+http://141.193.213.81:80,US,
+http://103.21.244.39:80,US,Ashburn
+http://159.112.235.229:80,US,
+http://172.67.72.14:80,US,
+http://159.112.235.211:80,US,
+http://141.193.213.150:80,US,
+http://159.65.245.255:80,US,Clifton
+http://198.111.166.184:80,US,West Bloomfield
+http://137.184.96.68:80,US,North Bergen
+http://69.48.201.94:80,US,
+http://142.93.202.130:3128,US,North Bergen
+http://103.21.244.149:80,US,Ashburn
+http://103.21.244.207:80,US,Ashburn
+http://45.194.53.52:80,US,
+http://172.67.133.29:80,US,
+http://172.67.189.88:80,US,
+http://172.67.69.86:80,US,
 socks4://68.71.242.118:4145,US,
 socks4://192.252.209.158:4145,US,
 http://103.21.244.163:80,US,Ashburn
@@ -247,7 +299,6 @@ http://35.174.151.247:80,US,Ashburn
 http://141.193.213.240:80,US,
 http://34.194.41.221:80,US,Ashburn
 http://103.21.244.116:80,US,Ashburn
-socks5://104.219.236.127:1080,US,
 socks4://192.252.216.86:4145,US,
 http://69.84.182.14:80,US,
 http://172.67.191.235:80,US,
@@ -297,8 +348,6 @@ http://12.50.107.221:80,US,Jacksonville
 http://103.21.244.134:80,US,Ashburn
 http://172.67.214.97:80,US,
 http://103.21.244.89:80,US,Ashburn
-http://128.199.1.8:3128,US,Santa Clara
-http://35.202.49.74:80,US,Council Bluffs
 http://96.113.159.162:80,US,
 http://172.67.182.152:80,US,
 http://103.21.244.12:80,US,Ashburn
@@ -358,9 +407,11 @@ http://172.67.197.26:80,US,
 http://69.84.182.50:80,US,
 http://172.67.195.65:80,US,
 http://159.112.235.220:80,US,
-socks4://98.191.0.47:4145,US,Tempe
+http://50.203.147.156:80,US,Plaistow
 http://103.21.244.215:80,US,Ashburn
 http://172.67.250.212:80,US,
+socks4://98.191.0.37:4145,US,Chandler
+socks4://72.195.101.99:4145,US,
 http://12.50.107.222:80,US,Jacksonville
 http://172.64.144.205:80,US,San Francisco
 http://172.67.166.101:80,US,
@@ -377,42 +428,3 @@ http://103.21.244.193:80,US,Ashburn
 socks4://184.181.178.33:4145,US,
 socks4://174.75.211.222:4145,US,
 http://172.67.217.178:80,US,
-socks4://68.71.249.158:4145,US,
-socks4://72.207.113.97:4145,US,San Diego
-http://103.21.244.13:80,US,Ashburn
-http://103.21.244.37:80,US,Ashburn
-socks4://98.178.72.30:4145,US,
-socks5://184.182.240.12:4145,US,Phoenix
-socks4://68.71.240.210:4145,US,
-socks4://142.54.237.38:4145,US,
-socks4://72.223.188.67:4145,US,Mesa
-socks4://192.252.214.17:4145,US,
-socks4://67.201.39.14:4145,US,
-socks4://192.252.210.233:4145,US,
-socks4://199.116.112.6:4145,US,
-socks4://199.187.210.54:4145,US,Los Angeles
-socks4://216.68.128.121:4145,US,Cincinnati
-socks4://67.201.58.190:4145,US,
-socks4://68.71.251.134:4145,US,
-socks4://98.182.147.97:4145,US,Las Vegas
-http://103.21.244.84:80,US,Ashburn
-http://103.21.244.171:80,US,Ashburn
-http://141.193.213.210:80,US,
-http://103.21.244.198:80,US,Ashburn
-socks4://192.252.215.2:4145,US,
-http://141.193.213.65:80,US,
-http://103.21.244.186:80,US,Ashburn
-http://103.21.244.42:80,US,Ashburn
-http://103.21.244.39:80,US,Ashburn
-http://103.21.244.102:80,US,Ashburn
-socks4://67.201.35.145:4145,US,
-socks4://184.170.251.30:11288,US,
-socks4://72.207.33.64:4145,US,Chula Vista
-http://172.67.72.14:80,US,
-http://141.193.213.150:80,US,
-http://103.21.244.152:80,US,Ashburn
-http://103.21.244.207:80,US,Ashburn
-socks4://70.60.132.130:5678,US,Dayton
-http://188.114.96.1:80,US,
-http://141.193.213.86:80,US,
-socks4://174.75.211.193:4145,US,
