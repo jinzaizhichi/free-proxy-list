@@ -1,18 +1,5 @@
 [
   {
-    "proxy": "http://193.181.35.103:8118",
-    "protocol": "http",
-    "ip": "193.181.35.103",
-    "port": 8118,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "SE",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "socks5://89.22.237.70:80",
     "protocol": "socks5",
     "ip": "89.22.237.70",
