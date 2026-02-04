@@ -13,16 +13,29 @@
     }
   },
   {
-    "proxy": "http://110.159.123.225:8080",
+    "proxy": "http://72.10.164.178:7615",
     "protocol": "http",
-    "ip": "110.159.123.225",
-    "port": 8080,
+    "ip": "72.10.164.178",
+    "port": 7615,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "MY",
       "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://175.138.231.145:80",
+    "protocol": "http",
+    "ip": "175.138.231.145",
+    "port": 80,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "MY",
+      "city": "Kuala Lumpur"
     }
   },
   {
