@@ -1,14 +1,14 @@
 [
   {
-    "proxy": "http://154.113.18.189:2020",
+    "proxy": "http://185.118.51.230:3128",
     "protocol": "http",
-    "ip": "154.113.18.189",
-    "port": 2020,
+    "ip": "185.118.51.230",
+    "port": 3128,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
-      "country": "NG",
+      "country": "AZ",
       "city": "Unknown"
     }
   }
