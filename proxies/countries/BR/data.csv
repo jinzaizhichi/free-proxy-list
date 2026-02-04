@@ -1,18 +1,15 @@
-socks5://146.235.38.234:8123,BR,Unknown
-socks4://177.10.201.170:45780,BR,Unknown
+socks4://45.170.123.1:4153,BR,Unknown
 http://134.65.238.25:3128,BR,Unknown
-http://191.252.204.220:8080,BR,Unknown
 http://187.84.176.20:8080,BR,Unknown
+http://143.255.147.242:8080,BR,Unknown
 http://177.174.126.203:8080,BR,Unknown
 http://45.4.148.90:8080,BR,Unknown
-http://45.239.175.60:8080,BR,Lagarto
-http://177.10.145.24:8080,BR,Unknown
-http://177.220.230.71:8080,BR,Unknown
-http://179.51.199.87:8099,BR,Unknown
-http://187.62.191.3:61456,BR,Unknown
-http://200.182.232.34:8080,BR,Unknown
+http://45.236.66.163:8520,BR,Unknown
+http://45.4.58.223:8080,BR,Unknown
+http://191.37.66.225:8080,BR,Unknown
+http://177.10.118.108:8089,BR,Unknown
 http://201.157.235.197:8080,BR,Unknown
 http://45.168.123.193:8080,BR,Unknown
-http://67.43.228.252:10195,BR,Unknown
-http://187.49.176.141:8080,BR,Fortaleza
-http://45.182.176.38:9947,BR,S?o Paulo
+http://67.43.236.18:23845,BR,Unknown
+http://67.43.236.20:27355,BR,Unknown
+http://45.239.175.60:8080,BR,Lagarto
