@@ -1,0 +1,28 @@
+[
+  {
+    "proxy": "http://196.70.207.156:3128",
+    "protocol": "http",
+    "ip": "196.70.207.156",
+    "port": 3128,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "MA",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://41.141.187.197:3128",
+    "protocol": "http",
+    "ip": "41.141.187.197",
+    "port": 3128,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "MA",
+      "city": "Unknown"
+    }
+  }
+]

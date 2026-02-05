@@ -1,5 +1,18 @@
 [
   {
+    "proxy": "http://200.119.141.114:999",
+    "protocol": "http",
+    "ip": "200.119.141.114",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "GT",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "http://72.10.164.178:30243",
     "protocol": "http",
     "ip": "72.10.164.178",

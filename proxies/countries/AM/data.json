@@ -1,18 +1,5 @@
 [
   {
-    "proxy": "http://91.204.190.140:81",
-    "protocol": "http",
-    "ip": "91.204.190.140",
-    "port": 81,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "AM",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "http://217.113.25.196:8080",
     "protocol": "http",
     "ip": "217.113.25.196",
@@ -23,6 +10,162 @@
     "geolocation": {
       "country": "AM",
       "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://185.162.228.168:80",
+    "protocol": "http",
+    "ip": "185.162.228.168",
+    "port": 80,
+    "https": false,
+    "anonymity": "elite",
+    "score": 1,
+    "geolocation": {
+      "country": "AM",
+      "city": ""
+    }
+  },
+  {
+    "proxy": "http://185.162.228.78:80",
+    "protocol": "http",
+    "ip": "185.162.228.78",
+    "port": 80,
+    "https": false,
+    "anonymity": "elite",
+    "score": 1,
+    "geolocation": {
+      "country": "AM",
+      "city": ""
+    }
+  },
+  {
+    "proxy": "http://185.162.229.195:80",
+    "protocol": "http",
+    "ip": "185.162.229.195",
+    "port": 80,
+    "https": false,
+    "anonymity": "elite",
+    "score": 1,
+    "geolocation": {
+      "country": "AM",
+      "city": ""
+    }
+  },
+  {
+    "proxy": "http://185.162.230.195:80",
+    "protocol": "http",
+    "ip": "185.162.230.195",
+    "port": 80,
+    "https": false,
+    "anonymity": "elite",
+    "score": 1,
+    "geolocation": {
+      "country": "AM",
+      "city": ""
+    }
+  },
+  {
+    "proxy": "http://185.162.229.65:80",
+    "protocol": "http",
+    "ip": "185.162.229.65",
+    "port": 80,
+    "https": false,
+    "anonymity": "elite",
+    "score": 1,
+    "geolocation": {
+      "country": "AM",
+      "city": ""
+    }
+  },
+  {
+    "proxy": "http://185.162.231.66:80",
+    "protocol": "http",
+    "ip": "185.162.231.66",
+    "port": 80,
+    "https": false,
+    "anonymity": "elite",
+    "score": 1,
+    "geolocation": {
+      "country": "AM",
+      "city": ""
+    }
+  },
+  {
+    "proxy": "http://185.162.230.16:80",
+    "protocol": "http",
+    "ip": "185.162.230.16",
+    "port": 80,
+    "https": false,
+    "anonymity": "elite",
+    "score": 1,
+    "geolocation": {
+      "country": "AM",
+      "city": ""
+    }
+  },
+  {
+    "proxy": "http://185.162.230.208:80",
+    "protocol": "http",
+    "ip": "185.162.230.208",
+    "port": 80,
+    "https": false,
+    "anonymity": "elite",
+    "score": 1,
+    "geolocation": {
+      "country": "AM",
+      "city": ""
+    }
+  },
+  {
+    "proxy": "http://185.162.229.193:80",
+    "protocol": "http",
+    "ip": "185.162.229.193",
+    "port": 80,
+    "https": false,
+    "anonymity": "elite",
+    "score": 1,
+    "geolocation": {
+      "country": "AM",
+      "city": ""
+    }
+  },
+  {
+    "proxy": "http://185.162.228.191:80",
+    "protocol": "http",
+    "ip": "185.162.228.191",
+    "port": 80,
+    "https": false,
+    "anonymity": "elite",
+    "score": 1,
+    "geolocation": {
+      "country": "AM",
+      "city": ""
+    }
+  },
+  {
+    "proxy": "http://185.162.228.158:80",
+    "protocol": "http",
+    "ip": "185.162.228.158",
+    "port": 80,
+    "https": false,
+    "anonymity": "elite",
+    "score": 1,
+    "geolocation": {
+      "country": "AM",
+      "city": ""
+    }
+  },
+  {
+    "proxy": "http://185.162.228.97:80",
+    "protocol": "http",
+    "ip": "185.162.228.97",
+    "port": 80,
+    "https": false,
+    "anonymity": "elite",
+    "score": 1,
+    "geolocation": {
+      "country": "AM",
+      "city": ""
     }
   },
   {
@@ -302,123 +445,6 @@
     "proxy": "http://185.162.228.162:80",
     "protocol": "http",
     "ip": "185.162.228.162",
-    "port": 80,
-    "https": false,
-    "anonymity": "elite",
-    "score": 1,
-    "geolocation": {
-      "country": "AM",
-      "city": ""
-    }
-  },
-  {
-    "proxy": "http://185.162.230.75:80",
-    "protocol": "http",
-    "ip": "185.162.230.75",
-    "port": 80,
-    "https": false,
-    "anonymity": "elite",
-    "score": 1,
-    "geolocation": {
-      "country": "AM",
-      "city": ""
-    }
-  },
-  {
-    "proxy": "http://185.162.228.246:80",
-    "protocol": "http",
-    "ip": "185.162.228.246",
-    "port": 80,
-    "https": false,
-    "anonymity": "elite",
-    "score": 1,
-    "geolocation": {
-      "country": "AM",
-      "city": ""
-    }
-  },
-  {
-    "proxy": "http://185.162.229.163:80",
-    "protocol": "http",
-    "ip": "185.162.229.163",
-    "port": 80,
-    "https": false,
-    "anonymity": "elite",
-    "score": 1,
-    "geolocation": {
-      "country": "AM",
-      "city": ""
-    }
-  },
-  {
-    "proxy": "http://185.162.230.226:80",
-    "protocol": "http",
-    "ip": "185.162.230.226",
-    "port": 80,
-    "https": false,
-    "anonymity": "elite",
-    "score": 1,
-    "geolocation": {
-      "country": "AM",
-      "city": ""
-    }
-  },
-  {
-    "proxy": "http://185.162.228.26:80",
-    "protocol": "http",
-    "ip": "185.162.228.26",
-    "port": 80,
-    "https": false,
-    "anonymity": "elite",
-    "score": 1,
-    "geolocation": {
-      "country": "AM",
-      "city": ""
-    }
-  },
-  {
-    "proxy": "http://185.162.229.37:80",
-    "protocol": "http",
-    "ip": "185.162.229.37",
-    "port": 80,
-    "https": false,
-    "anonymity": "elite",
-    "score": 1,
-    "geolocation": {
-      "country": "AM",
-      "city": ""
-    }
-  },
-  {
-    "proxy": "http://185.162.231.26:80",
-    "protocol": "http",
-    "ip": "185.162.231.26",
-    "port": 80,
-    "https": false,
-    "anonymity": "elite",
-    "score": 1,
-    "geolocation": {
-      "country": "AM",
-      "city": ""
-    }
-  },
-  {
-    "proxy": "http://185.162.228.223:80",
-    "protocol": "http",
-    "ip": "185.162.228.223",
-    "port": 80,
-    "https": false,
-    "anonymity": "elite",
-    "score": 1,
-    "geolocation": {
-      "country": "AM",
-      "city": ""
-    }
-  },
-  {
-    "proxy": "http://185.162.230.23:80",
-    "protocol": "http",
-    "ip": "185.162.230.23",
     "port": 80,
     "https": false,
     "anonymity": "elite",
