@@ -13,11 +13,11 @@
     }
   },
   {
-    "proxy": "http://201.140.185.41:443",
+    "proxy": "http://5.102.109.41:999",
     "protocol": "http",
-    "ip": "201.140.185.41",
-    "port": 443,
-    "https": true,
+    "ip": "5.102.109.41",
+    "port": 999,
+    "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
@@ -26,9 +26,9 @@
     }
   },
   {
-    "proxy": "http://5.102.109.41:999",
+    "proxy": "http://170.0.228.250:999",
     "protocol": "http",
-    "ip": "5.102.109.41",
+    "ip": "170.0.228.250",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
@@ -52,9 +52,9 @@
     }
   },
   {
-    "proxy": "http://45.174.241.172:999",
+    "proxy": "http://38.194.231.70:999",
     "protocol": "http",
-    "ip": "45.174.241.172",
+    "ip": "38.194.231.70",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
@@ -91,22 +91,22 @@
     }
   },
   {
-    "proxy": "http://205.164.192.115:999",
+    "proxy": "http://177.247.249.5:3128",
     "protocol": "http",
-    "ip": "205.164.192.115",
-    "port": 999,
+    "ip": "177.247.249.5",
+    "port": 3128,
     "https": false,
-    "anonymity": "elite",
+    "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "MX",
-      "city": "Yur?cuaro"
+      "city": "Unknown"
     }
   },
   {
-    "proxy": "http://38.45.242.45:999",
+    "proxy": "http://38.156.15.156:999",
     "protocol": "http",
-    "ip": "38.45.242.45",
+    "ip": "38.156.15.156",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
@@ -117,9 +117,22 @@
     }
   },
   {
-    "proxy": "http://201.150.116.32:999",
+    "proxy": "http://45.174.243.20:999",
     "protocol": "http",
-    "ip": "201.150.116.32",
+    "ip": "45.174.243.20",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "MX",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://201.150.116.3:999",
+    "protocol": "http",
+    "ip": "201.150.116.3",
     "port": 999,
     "https": false,
     "anonymity": "transparent",

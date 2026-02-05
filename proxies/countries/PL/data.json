@@ -1,10 +1,10 @@
 [
   {
-    "proxy": "http://151.115.78.51:443",
-    "protocol": "http",
-    "ip": "151.115.78.51",
-    "port": 443,
-    "https": true,
+    "proxy": "socks4://185.186.17.57:5678",
+    "protocol": "socks4",
+    "ip": "185.186.17.57",
+    "port": 5678,
+    "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
@@ -13,10 +13,10 @@
     }
   },
   {
-    "proxy": "http://37.120.156.18:9443",
+    "proxy": "http://151.115.78.51:443",
     "protocol": "http",
-    "ip": "37.120.156.18",
-    "port": 9443,
+    "ip": "151.115.78.51",
+    "port": 443,
     "https": true,
     "anonymity": "transparent",
     "score": 1,
@@ -39,29 +39,16 @@
     }
   },
   {
-    "proxy": "http://79.110.200.148:8081",
+    "proxy": "http://212.127.95.235:8081",
     "protocol": "http",
-    "ip": "79.110.200.148",
+    "ip": "212.127.95.235",
     "port": 8081,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "PL",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://178.212.144.7:80",
-    "protocol": "http",
-    "ip": "178.212.144.7",
-    "port": 80,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PL",
-      "city": "Unknown"
+      "city": "Wroclaw"
     }
   },
   {
@@ -78,16 +65,29 @@
     }
   },
   {
-    "proxy": "http://212.127.95.235:8081",
+    "proxy": "http://178.212.144.7:80",
     "protocol": "http",
-    "ip": "212.127.95.235",
-    "port": 8081,
+    "ip": "178.212.144.7",
+    "port": 80,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "PL",
-      "city": "Wroclaw"
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://83.25.25.39:3128",
+    "protocol": "http",
+    "ip": "83.25.25.39",
+    "port": 3128,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PL",
+      "city": "Unknown"
     }
   }
 ]
