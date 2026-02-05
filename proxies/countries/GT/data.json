@@ -26,10 +26,10 @@
     }
   },
   {
-    "proxy": "http://72.10.160.90:14351",
+    "proxy": "http://38.52.209.229:999",
     "protocol": "http",
-    "ip": "72.10.160.90",
-    "port": 14351,
+    "ip": "38.52.209.229",
+    "port": 999,
     "https": false,
     "anonymity": "transparent",
     "score": 1,

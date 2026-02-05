@@ -13,6 +13,19 @@
     }
   },
   {
+    "proxy": "http://186.96.160.202:999",
+    "protocol": "http",
+    "ip": "186.96.160.202",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "MX",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "http://38.194.246.34:999",
     "protocol": "http",
     "ip": "38.194.246.34",
@@ -26,9 +39,9 @@
     }
   },
   {
-    "proxy": "http://38.224.97.12:999",
+    "proxy": "http://170.0.228.250:999",
     "protocol": "http",
-    "ip": "38.224.97.12",
+    "ip": "170.0.228.250",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
@@ -39,10 +52,36 @@
     }
   },
   {
-    "proxy": "http://67.43.228.253:27689",
+    "proxy": "http://200.71.111.90:999",
     "protocol": "http",
-    "ip": "67.43.228.253",
-    "port": 27689,
+    "ip": "200.71.111.90",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "MX",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://201.159.111.121:8081",
+    "protocol": "http",
+    "ip": "201.159.111.121",
+    "port": 8081,
+    "https": false,
+    "anonymity": "elite",
+    "score": 1,
+    "geolocation": {
+      "country": "MX",
+      "city": "Apodaca"
+    }
+  },
+  {
+    "proxy": "http://131.196.245.120:999",
+    "protocol": "http",
+    "ip": "131.196.245.120",
+    "port": 999,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -56,19 +95,6 @@
     "protocol": "http",
     "ip": "154.27.196.232",
     "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "MX",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://187.190.58.152:80",
-    "protocol": "http",
-    "ip": "187.190.58.152",
-    "port": 80,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -104,9 +130,9 @@
     }
   },
   {
-    "proxy": "http://205.164.192.115:999",
+    "proxy": "http://187.189.237.248:999",
     "protocol": "http",
-    "ip": "205.164.192.115",
+    "ip": "187.189.237.248",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
@@ -117,9 +143,9 @@
     }
   },
   {
-    "proxy": "http://45.190.76.16:999",
+    "proxy": "http://205.164.192.115:999",
     "protocol": "http",
-    "ip": "45.190.76.16",
+    "ip": "205.164.192.115",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
@@ -182,19 +208,6 @@
     }
   },
   {
-    "proxy": "http://38.156.15.156:999",
-    "protocol": "http",
-    "ip": "38.156.15.156",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "MX",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "http://201.150.116.32:999",
     "protocol": "http",
     "ip": "201.150.116.32",
@@ -234,19 +247,6 @@
     }
   },
   {
-    "proxy": "http://67.43.228.250:31077",
-    "protocol": "http",
-    "ip": "67.43.228.250",
-    "port": 31077,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "MX",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "http://189.202.188.149:80",
     "protocol": "http",
     "ip": "189.202.188.149",
@@ -257,19 +257,6 @@
     "geolocation": {
       "country": "MX",
       "city": "Kanas?n"
-    }
-  },
-  {
-    "proxy": "http://201.159.111.121:8081",
-    "protocol": "http",
-    "ip": "201.159.111.121",
-    "port": 8081,
-    "https": false,
-    "anonymity": "elite",
-    "score": 1,
-    "geolocation": {
-      "country": "MX",
-      "city": "Apodaca"
     }
   }
 ]
