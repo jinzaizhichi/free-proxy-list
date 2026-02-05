@@ -1,8 +1,21 @@
 [
   {
-    "proxy": "http://199.68.199.81:3128",
+    "proxy": "http://89.22.237.70:80",
     "protocol": "http",
-    "ip": "199.68.199.81",
+    "ip": "89.22.237.70",
+    "port": 80,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "SE",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://147.45.72.6:3128",
+    "protocol": "http",
+    "ip": "147.45.72.6",
     "port": 3128,
     "https": false,
     "anonymity": "transparent",
