@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://196.70.91.2:3128",
+    "proxy": "http://154.144.243.44:3128",
     "protocol": "http",
-    "ip": "196.70.91.2",
+    "ip": "154.144.243.44",
     "port": 3128,
     "https": false,
     "anonymity": "transparent",
@@ -17,6 +17,19 @@
     "protocol": "http",
     "ip": "105.159.161.211",
     "port": 4339,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "MA",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://160.176.108.47:4408",
+    "protocol": "http",
+    "ip": "160.176.108.47",
+    "port": 4408,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
