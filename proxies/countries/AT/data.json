@@ -1,62 +1,23 @@
 [
   {
-    "proxy": "socks5://95.163.153.116:44937",
-    "protocol": "socks5",
-    "ip": "95.163.153.116",
-    "port": 44937,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "AT",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "socks5://95.163.153.116:20184",
-    "protocol": "socks5",
-    "ip": "95.163.153.116",
-    "port": 20184,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "AT",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "socks5://95.163.153.116:40575",
-    "protocol": "socks5",
-    "ip": "95.163.153.116",
-    "port": 40575,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "AT",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "socks4://213.173.92.102:5678",
-    "protocol": "socks4",
-    "ip": "213.173.92.102",
-    "port": 5678,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "AT",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "http://62.99.135.51:443",
     "protocol": "http",
     "ip": "62.99.135.51",
     "port": 443,
     "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "AT",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://213.33.98.123:8080",
+    "protocol": "http",
+    "ip": "213.33.98.123",
+    "port": 8080,
+    "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
@@ -84,6 +45,19 @@
     "port": 80,
     "https": false,
     "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "AT",
+      "city": "Vienna"
+    }
+  },
+  {
+    "proxy": "http://188.114.97.1:80",
+    "protocol": "http",
+    "ip": "188.114.97.1",
+    "port": 80,
+    "https": false,
+    "anonymity": "elite",
     "score": 1,
     "geolocation": {
       "country": "AT",

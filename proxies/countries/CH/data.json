@@ -13,19 +13,6 @@
     }
   },
   {
-    "proxy": "http://37.120.213.194:9443",
-    "protocol": "http",
-    "ip": "37.120.213.194",
-    "port": 9443,
-    "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CH",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "http://185.191.236.162:3128",
     "protocol": "http",
     "ip": "185.191.236.162",
@@ -52,16 +39,16 @@
     }
   },
   {
-    "proxy": "http://185.85.111.18:80",
+    "proxy": "http://16.63.207.85:80",
     "protocol": "http",
-    "ip": "185.85.111.18",
+    "ip": "16.63.207.85",
     "port": 80,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "CH",
-      "city": "Tann"
+      "city": "Zurich"
     }
   },
   {
@@ -78,16 +65,16 @@
     }
   },
   {
-    "proxy": "http://16.63.207.85:80",
+    "proxy": "http://185.85.111.18:80",
     "protocol": "http",
-    "ip": "16.63.207.85",
+    "ip": "185.85.111.18",
     "port": 80,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "CH",
-      "city": "Zurich"
+      "city": "Tann"
     }
   }
 ]
