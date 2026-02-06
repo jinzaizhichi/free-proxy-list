@@ -26,9 +26,9 @@
     }
   },
   {
-    "proxy": "http://151.245.215.21:3128",
+    "proxy": "http://151.245.215.22:3128",
     "protocol": "http",
-    "ip": "151.245.215.21",
+    "ip": "151.245.215.22",
     "port": 3128,
     "https": false,
     "anonymity": "transparent",
@@ -42,19 +42,6 @@
     "proxy": "http://151.245.215.27:3128",
     "protocol": "http",
     "ip": "151.245.215.27",
-    "port": 3128,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "AE",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://38.180.26.41:3128",
-    "protocol": "http",
-    "ip": "38.180.26.41",
     "port": 3128,
     "https": false,
     "anonymity": "transparent",
@@ -91,35 +78,9 @@
     }
   },
   {
-    "proxy": "http://151.245.215.10:3128",
+    "proxy": "http://151.245.215.5:3128",
     "protocol": "http",
-    "ip": "151.245.215.10",
-    "port": 3128,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "AE",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://151.245.215.1:3128",
-    "protocol": "http",
-    "ip": "151.245.215.1",
-    "port": 3128,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "AE",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://151.245.215.0:3128",
-    "protocol": "http",
-    "ip": "151.245.215.0",
+    "ip": "151.245.215.5",
     "port": 3128,
     "https": false,
     "anonymity": "transparent",
@@ -146,19 +107,6 @@
     "proxy": "http://151.245.215.9:3128",
     "protocol": "http",
     "ip": "151.245.215.9",
-    "port": 3128,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "AE",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://151.245.215.12:3128",
-    "protocol": "http",
-    "ip": "151.245.215.12",
     "port": 3128,
     "https": false,
     "anonymity": "transparent",
@@ -234,19 +182,6 @@
     }
   },
   {
-    "proxy": "http://151.245.215.4:3128",
-    "protocol": "http",
-    "ip": "151.245.215.4",
-    "port": 3128,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "AE",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "http://151.245.215.11:3128",
     "protocol": "http",
     "ip": "151.245.215.11",
@@ -276,19 +211,6 @@
     "proxy": "http://151.245.215.24:3128",
     "protocol": "http",
     "ip": "151.245.215.24",
-    "port": 3128,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "AE",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://151.245.215.25:3128",
-    "protocol": "http",
-    "ip": "151.245.215.25",
     "port": 3128,
     "https": false,
     "anonymity": "transparent",
