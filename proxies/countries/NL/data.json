@@ -143,19 +143,6 @@
     }
   },
   {
-    "proxy": "http://109.236.88.82:80",
-    "protocol": "http",
-    "ip": "109.236.88.82",
-    "port": 80,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "NL",
-      "city": "Naaldwijk"
-    }
-  },
-  {
     "proxy": "http://160.153.0.31:80",
     "protocol": "http",
     "ip": "160.153.0.31",
@@ -452,19 +439,6 @@
     "geolocation": {
       "country": "NL",
       "city": ""
-    }
-  },
-  {
-    "proxy": "http://145.100.181.155:80",
-    "protocol": "http",
-    "ip": "145.100.181.155",
-    "port": 80,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "NL",
-      "city": "Groningen"
     }
   }
 ]
