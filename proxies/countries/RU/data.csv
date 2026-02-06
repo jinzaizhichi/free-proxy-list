@@ -15,10 +15,7 @@ socks5://45.8.88.236:1080,RU,Unknown
 socks5://176.120.26.112:1080,RU,Unknown
 socks5://94.230.127.180:1080,RU,Unknown
 socks5://94.228.127.159:1080,RU,Unknown
-socks4://83.220.46.106:4145,RU,Unknown
-socks4://94.247.241.70:51006,RU,Unknown
 socks4://92.42.8.20:4145,RU,Unknown
-socks4://213.210.67.186:3629,RU,Unknown
 socks4://176.214.78.230:5678,RU,Unknown
 socks4://109.106.196.250:4145,RU,Unknown
 socks4://37.193.71.189:1080,RU,Unknown
@@ -34,7 +31,6 @@ http://37.110.147.13:443,RU,Unknown
 http://176.226.200.167:443,RU,Unknown
 http://37.140.51.159:80,RU,Unknown
 http://87.229.205.227:8080,RU,Unknown
-http://46.47.197.210:3128,RU,Unknown
 http://62.213.13.54:3128,RU,Unknown
 http://217.150.43.249:8080,RU,Unknown
 http://193.53.127.169:80,RU,Unknown

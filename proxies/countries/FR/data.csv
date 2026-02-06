@@ -23,7 +23,6 @@ http://173.249.37.45:5006,FR,Unknown
 http://173.249.37.45:5051,FR,Unknown
 http://152.228.163.79:443,FR,Unknown
 http://46.35.9.110:80,FR,Unknown
-http://212.47.232.28:80,FR,Unknown
 http://141.253.118.174:80,FR,Unknown
 http://62.133.62.12:1082,FR,Unknown
 http://57.128.174.79:3128,FR,Unknown
@@ -31,6 +30,7 @@ http://173.245.49.80:80,FR,Paris
 http://173.245.49.182:80,FR,Paris
 http://93.127.163.52:80,FR,Paris
 http://173.245.49.167:80,FR,Paris
+http://178.170.43.106:8081,FR,
 http://173.245.49.117:80,FR,Paris
 socks5://62.133.62.12:1082,FR,Paris
 http://173.245.49.72:80,FR,Paris

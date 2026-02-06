@@ -1,5 +1,4 @@
 socks5://64.227.131.240:1080,IN,Unknown
-socks4://103.97.94.22:4153,IN,Unknown
 socks4://103.106.195.150:1080,IN,Unknown
 socks4://202.179.86.185:51951,IN,Unknown
 http://4.188.236.47:443,IN,Unknown
@@ -15,7 +14,6 @@ http://14.102.70.89:8080,IN,Unknown
 http://103.26.109.62:9256,IN,Unknown
 http://103.137.218.113:83,IN,Unknown
 http://175.101.240.38:80,IN,Unknown
-http://27.34.242.98:80,IN,Bengaluru
 http://4.213.167.178:80,IN,Unknown
 http://4.213.98.253:80,IN,Unknown
 http://103.231.45.182:8080,IN,Unknown
@@ -27,6 +25,5 @@ http://72.10.164.178:10451,IN,Unknown
 http://72.10.160.92:23019,IN,Unknown
 socks4://43.230.196.98:48200,IN,Greater Noida
 socks4://64.227.131.240:1080,IN,Bengaluru
-socks4://123.253.124.28:5678,IN,Udaipur
 socks4://202.179.88.233:51951,IN,Mumbai
 http://65.1.148.157:80,IN,Mumbai

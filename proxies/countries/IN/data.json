@@ -13,19 +13,6 @@
     }
   },
   {
-    "proxy": "socks4://103.97.94.22:4153",
-    "protocol": "socks4",
-    "ip": "103.97.94.22",
-    "port": 4153,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "IN",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "socks4://103.106.195.150:1080",
     "protocol": "socks4",
     "ip": "103.106.195.150",
@@ -221,19 +208,6 @@
     }
   },
   {
-    "proxy": "http://27.34.242.98:80",
-    "protocol": "http",
-    "ip": "27.34.242.98",
-    "port": 80,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "IN",
-      "city": "Bengaluru"
-    }
-  },
-  {
     "proxy": "http://4.213.167.178:80",
     "protocol": "http",
     "ip": "4.213.167.178",
@@ -374,19 +348,6 @@
     "geolocation": {
       "country": "IN",
       "city": "Bengaluru"
-    }
-  },
-  {
-    "proxy": "socks4://123.253.124.28:5678",
-    "protocol": "socks4",
-    "ip": "123.253.124.28",
-    "port": 5678,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "IN",
-      "city": "Udaipur"
     }
   },
   {
