@@ -13,10 +13,10 @@
     }
   },
   {
-    "proxy": "http://154.127.78.16:44444",
+    "proxy": "http://165.16.2.234:9999",
     "protocol": "http",
-    "ip": "154.127.78.16",
-    "port": 44444,
+    "ip": "165.16.2.234",
+    "port": 9999,
     "https": false,
     "anonymity": "transparent",
     "score": 1,

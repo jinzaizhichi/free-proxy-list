@@ -13,10 +13,10 @@
     }
   },
   {
-    "proxy": "socks4://185.32.4.65:4153",
+    "proxy": "socks4://46.171.28.162:59311",
     "protocol": "socks4",
-    "ip": "185.32.4.65",
-    "port": 4153,
+    "ip": "46.171.28.162",
+    "port": 59311,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -26,9 +26,9 @@
     }
   },
   {
-    "proxy": "socks4://185.32.4.126:4153",
+    "proxy": "socks4://185.32.6.121:4153",
     "protocol": "socks4",
-    "ip": "185.32.4.126",
+    "ip": "185.32.6.121",
     "port": 4153,
     "https": false,
     "anonymity": "transparent",
@@ -91,6 +91,19 @@
     }
   },
   {
+    "proxy": "http://212.127.95.235:8081",
+    "protocol": "http",
+    "ip": "212.127.95.235",
+    "port": 8081,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PL",
+      "city": "Wroclaw"
+    }
+  },
+  {
     "proxy": "http://79.110.200.27:8000",
     "protocol": "http",
     "ip": "79.110.200.27",
@@ -143,6 +156,19 @@
     }
   },
   {
+    "proxy": "http://185.28.250.90:8090",
+    "protocol": "http",
+    "ip": "185.28.250.90",
+    "port": 8090,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PL",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "http://79.110.202.131:8081",
     "protocol": "http",
     "ip": "79.110.202.131",
@@ -153,32 +179,6 @@
     "geolocation": {
       "country": "PL",
       "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://83.25.25.39:3128",
-    "protocol": "http",
-    "ip": "83.25.25.39",
-    "port": 3128,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PL",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://212.127.95.235:8081",
-    "protocol": "http",
-    "ip": "212.127.95.235",
-    "port": 8081,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PL",
-      "city": "Wroclaw"
     }
   },
   {
