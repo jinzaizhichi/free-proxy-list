@@ -1,14 +1,14 @@
 [
   {
-    "proxy": "http://72.10.164.178:17347",
+    "proxy": "http://185.4.132.222:3128",
     "protocol": "http",
-    "ip": "72.10.164.178",
-    "port": 17347,
+    "ip": "185.4.132.222",
+    "port": 3128,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
-      "country": "KW",
+      "country": "GR",
       "city": "Unknown"
     }
   }
