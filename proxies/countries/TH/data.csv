@@ -1,10 +1,8 @@
-socks5://154.197.69.137:1081,TH,Unknown
-socks4://159.192.139.42:5678,TH,Unknown
-socks4://1.20.235.153:5678,TH,Unknown
+socks4://125.25.82.207:5678,TH,Unknown
 socks4://125.26.4.197:4145,TH,Unknown
-http://182.52.229.165:8080,TH,Unknown
-http://203.172.136.211:8080,TH,Unknown
-http://171.100.89.253:3128,TH,Unknown
-http://125.27.150.249:8080,TH,Unknown
-http://159.192.226.237:8080,TH,Unknown
+socks4://125.27.10.84:4153,TH,Unknown
+socks4://159.192.142.24:5678,TH,Unknown
+http://61.91.202.211:8080,TH,Unknown
+http://49.49.213.215:8080,TH,Unknown
+http://1.2.221.5:8080,TH,Unknown
 http://72.10.160.171:26005,TH,Unknown
