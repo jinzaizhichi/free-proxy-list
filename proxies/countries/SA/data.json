@@ -1,9 +1,9 @@
 [
   {
-    "proxy": "http://145.82.132.39:8080",
+    "proxy": "http://67.43.228.251:2019",
     "protocol": "http",
-    "ip": "145.82.132.39",
-    "port": 8080,
+    "ip": "67.43.228.251",
+    "port": 2019,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
