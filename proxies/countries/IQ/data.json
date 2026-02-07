@@ -1,5 +1,18 @@
 [
   {
+    "proxy": "http://47.243.181.85:41693",
+    "protocol": "http",
+    "ip": "47.243.181.85",
+    "port": 41693,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "IQ",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "http://93.180.221.205:8080",
     "protocol": "http",
     "ip": "93.180.221.205",
