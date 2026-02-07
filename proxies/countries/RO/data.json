@@ -2301,6 +2301,19 @@
     }
   },
   {
+    "proxy": "http://185.128.240.2:3128",
+    "protocol": "http",
+    "ip": "185.128.240.2",
+    "port": 3128,
+    "https": false,
+    "anonymity": "elite",
+    "score": 1,
+    "geolocation": {
+      "country": "RO",
+      "city": "Drobeta-Turnu Severin"
+    }
+  },
+  {
     "proxy": "http://81.196.74.147:8080",
     "protocol": "http",
     "ip": "81.196.74.147",
@@ -2327,16 +2340,68 @@
     }
   },
   {
-    "proxy": "http://89.38.230.18:3128",
+    "proxy": "http://45.12.30.44:80",
     "protocol": "http",
-    "ip": "89.38.230.18",
-    "port": 3128,
+    "ip": "45.12.30.44",
+    "port": 80,
     "https": false,
-    "anonymity": "transparent",
+    "anonymity": "elite",
     "score": 1,
     "geolocation": {
       "country": "RO",
-      "city": "Unknown"
+      "city": ""
+    }
+  },
+  {
+    "proxy": "http://45.12.31.222:80",
+    "protocol": "http",
+    "ip": "45.12.31.222",
+    "port": 80,
+    "https": false,
+    "anonymity": "elite",
+    "score": 1,
+    "geolocation": {
+      "country": "RO",
+      "city": ""
+    }
+  },
+  {
+    "proxy": "http://45.12.31.113:80",
+    "protocol": "http",
+    "ip": "45.12.31.113",
+    "port": 80,
+    "https": false,
+    "anonymity": "elite",
+    "score": 1,
+    "geolocation": {
+      "country": "RO",
+      "city": ""
+    }
+  },
+  {
+    "proxy": "http://45.12.30.221:80",
+    "protocol": "http",
+    "ip": "45.12.30.221",
+    "port": 80,
+    "https": false,
+    "anonymity": "elite",
+    "score": 1,
+    "geolocation": {
+      "country": "RO",
+      "city": ""
+    }
+  },
+  {
+    "proxy": "http://45.12.31.157:80",
+    "protocol": "http",
+    "ip": "45.12.31.157",
+    "port": 80,
+    "https": false,
+    "anonymity": "elite",
+    "score": 1,
+    "geolocation": {
+      "country": "RO",
+      "city": ""
     }
   },
   {
@@ -2441,19 +2506,6 @@
     "geolocation": {
       "country": "RO",
       "city": ""
-    }
-  },
-  {
-    "proxy": "http://185.128.240.2:3128",
-    "protocol": "http",
-    "ip": "185.128.240.2",
-    "port": 3128,
-    "https": false,
-    "anonymity": "elite",
-    "score": 1,
-    "geolocation": {
-      "country": "RO",
-      "city": "Drobeta-Turnu Severin"
     }
   },
   {
@@ -2577,71 +2629,6 @@
     "proxy": "http://45.12.30.211:80",
     "protocol": "http",
     "ip": "45.12.30.211",
-    "port": 80,
-    "https": false,
-    "anonymity": "elite",
-    "score": 1,
-    "geolocation": {
-      "country": "RO",
-      "city": ""
-    }
-  },
-  {
-    "proxy": "http://45.12.30.84:80",
-    "protocol": "http",
-    "ip": "45.12.30.84",
-    "port": 80,
-    "https": false,
-    "anonymity": "elite",
-    "score": 1,
-    "geolocation": {
-      "country": "RO",
-      "city": ""
-    }
-  },
-  {
-    "proxy": "http://45.12.31.222:80",
-    "protocol": "http",
-    "ip": "45.12.31.222",
-    "port": 80,
-    "https": false,
-    "anonymity": "elite",
-    "score": 1,
-    "geolocation": {
-      "country": "RO",
-      "city": ""
-    }
-  },
-  {
-    "proxy": "http://45.12.31.113:80",
-    "protocol": "http",
-    "ip": "45.12.31.113",
-    "port": 80,
-    "https": false,
-    "anonymity": "elite",
-    "score": 1,
-    "geolocation": {
-      "country": "RO",
-      "city": ""
-    }
-  },
-  {
-    "proxy": "http://45.85.119.44:80",
-    "protocol": "http",
-    "ip": "45.85.119.44",
-    "port": 80,
-    "https": false,
-    "anonymity": "elite",
-    "score": 1,
-    "geolocation": {
-      "country": "RO",
-      "city": ""
-    }
-  },
-  {
-    "proxy": "http://45.12.31.227:80",
-    "protocol": "http",
-    "ip": "45.12.31.227",
     "port": 80,
     "https": false,
     "anonymity": "elite",
