@@ -1,9 +1,9 @@
 [
   {
-    "proxy": "http://217.52.247.73:1981",
+    "proxy": "http://82.129.233.4:1976",
     "protocol": "http",
-    "ip": "217.52.247.73",
-    "port": 1981,
+    "ip": "82.129.233.4",
+    "port": 1976,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -13,10 +13,10 @@
     }
   },
   {
-    "proxy": "http://197.164.101.12:1976",
+    "proxy": "http://62.241.133.227:1974",
     "protocol": "http",
-    "ip": "197.164.101.12",
-    "port": 1976,
+    "ip": "62.241.133.227",
+    "port": 1974,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -39,10 +39,10 @@
     }
   },
   {
-    "proxy": "http://41.128.72.148:1981",
+    "proxy": "http://41.33.219.140:1976",
     "protocol": "http",
-    "ip": "41.128.72.148",
-    "port": 1981,
+    "ip": "41.33.219.140",
+    "port": 1976,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
