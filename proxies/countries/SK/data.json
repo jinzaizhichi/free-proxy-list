@@ -24,5 +24,18 @@
       "country": "SK",
       "city": "Unknown"
     }
+  },
+  {
+    "proxy": "http://72.10.164.178:28157",
+    "protocol": "http",
+    "ip": "72.10.164.178",
+    "port": 28157,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "SK",
+      "city": "Unknown"
+    }
   }
 ]

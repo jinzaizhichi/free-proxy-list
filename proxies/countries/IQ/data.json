@@ -39,19 +39,6 @@
     }
   },
   {
-    "proxy": "http://185.65.254.161:8081",
-    "protocol": "http",
-    "ip": "185.65.254.161",
-    "port": 8081,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "IQ",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "http://144.86.231.114:8080",
     "protocol": "http",
     "ip": "144.86.231.114",

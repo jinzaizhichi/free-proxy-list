@@ -1,22 +1,35 @@
 [
   {
-    "proxy": "socks4://190.13.147.241:5678",
-    "protocol": "socks4",
-    "ip": "190.13.147.241",
-    "port": 5678,
+    "proxy": "http://152.230.215.123:443",
+    "protocol": "http",
+    "ip": "152.230.215.123",
+    "port": 443,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CL",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://186.67.47.230:999",
+    "protocol": "http",
+    "ip": "186.67.47.230",
+    "port": 999,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "CL",
-      "city": ""
+      "city": "Unknown"
     }
   },
   {
-    "proxy": "socks4://186.10.102.218:5678",
-    "protocol": "socks4",
-    "ip": "186.10.102.218",
-    "port": 5678,
+    "proxy": "http://186.67.94.10:999",
+    "protocol": "http",
+    "ip": "186.67.94.10",
+    "port": 999,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -39,9 +52,9 @@
     }
   },
   {
-    "proxy": "http://179.57.171.227:999",
+    "proxy": "http://179.57.215.99:999",
     "protocol": "http",
-    "ip": "179.57.171.227",
+    "ip": "179.57.215.99",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
@@ -49,6 +62,45 @@
     "geolocation": {
       "country": "CL",
       "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://204.199.139.36:999",
+    "protocol": "http",
+    "ip": "204.199.139.36",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CL",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://164.77.40.112:8080",
+    "protocol": "http",
+    "ip": "164.77.40.112",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CL",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks4://190.13.147.241:5678",
+    "protocol": "socks4",
+    "ip": "190.13.147.241",
+    "port": 5678,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CL",
+      "city": ""
     }
   }
 ]
