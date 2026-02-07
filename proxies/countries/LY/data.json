@@ -91,10 +91,10 @@
     }
   },
   {
-    "proxy": "http://165.16.22.86:9999",
+    "proxy": "http://165.16.27.43:1976",
     "protocol": "http",
-    "ip": "165.16.22.86",
-    "port": 9999,
+    "ip": "165.16.27.43",
+    "port": 1976,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
