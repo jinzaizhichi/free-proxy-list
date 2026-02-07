@@ -1,14 +1,14 @@
 [
   {
-    "proxy": "http://67.43.228.250:15817",
+    "proxy": "http://185.118.51.163:3128",
     "protocol": "http",
-    "ip": "67.43.228.250",
-    "port": 15817,
+    "ip": "185.118.51.163",
+    "port": 3128,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
-      "country": "AD",
+      "country": "AZ",
       "city": "Unknown"
     }
   }
