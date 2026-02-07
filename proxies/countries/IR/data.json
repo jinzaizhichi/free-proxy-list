@@ -1,15 +1,15 @@
 [
   {
-    "proxy": "http://5.160.92.229:8082",
+    "proxy": "http://78.157.57.71:3128",
     "protocol": "http",
-    "ip": "5.160.92.229",
-    "port": 8082,
+    "ip": "78.157.57.71",
+    "port": 3128,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "IR",
-      "city": "Unknown"
+      "city": ""
     }
   },
   {
