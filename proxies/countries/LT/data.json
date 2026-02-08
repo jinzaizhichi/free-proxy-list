@@ -1,14 +1,14 @@
 [
   {
-    "proxy": "http://200.106.236.142:3128",
+    "proxy": "http://31.193.193.69:1488",
     "protocol": "http",
-    "ip": "200.106.236.142",
-    "port": 3128,
+    "ip": "31.193.193.69",
+    "port": 1488,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
-      "country": "SV",
+      "country": "LT",
       "city": "Unknown"
     }
   }
