@@ -13,10 +13,10 @@
     }
   },
   {
-    "proxy": "http://81.10.234.234:80",
+    "proxy": "http://178.22.31.205:1082",
     "protocol": "http",
-    "ip": "81.10.234.234",
-    "port": 80,
+    "ip": "178.22.31.205",
+    "port": 1082,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
