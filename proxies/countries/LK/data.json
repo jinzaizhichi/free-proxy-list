@@ -1,0 +1,28 @@
+[
+  {
+    "proxy": "http://47.243.181.85:41690",
+    "protocol": "http",
+    "ip": "47.243.181.85",
+    "port": 41690,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "LK",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://67.43.228.252:6639",
+    "protocol": "http",
+    "ip": "67.43.228.252",
+    "port": 6639,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "LK",
+      "city": "Unknown"
+    }
+  }
+]
