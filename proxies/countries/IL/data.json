@@ -1,14 +1,14 @@
 [
   {
-    "proxy": "http://41.251.117.68:30048",
+    "proxy": "http://185.241.5.57:3128",
     "protocol": "http",
-    "ip": "41.251.117.68",
-    "port": 30048,
+    "ip": "185.241.5.57",
+    "port": 3128,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
-      "country": "MA",
+      "country": "IL",
       "city": "Unknown"
     }
   }
